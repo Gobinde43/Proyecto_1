@@ -1,3 +1,3 @@
 # Proyecto 1 
 ## Subtitulo
-**Hola, acabo me llamo Teresa**
+**Hola, acabo me llamo Miriam**
