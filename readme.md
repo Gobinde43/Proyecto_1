@@ -10,61 +10,61 @@ $ git init <br>
 
 
 ## Paso 2 - Crear archivos 
-Crear el archivo readme.md desde visual code
-$ code /.Proyecto_1
+Crear el archivo readme.md desde visual code <br> 
+$ code /.Proyecto_1 <br> 
 
 ## Paso 3 - Guardar cambios
-Añadir y guardar los cambios en el terminal
-$ git status             *(comprobar los cambios que faltan por guardado)*
-$ git add readme.md      
-$git commit-am readme.md
+Añadir y guardar los cambios en el terminal <br> 
+$ git status             *(comprobar los cambios que faltan por guardado)* <br> 
+$ git add readme.md     <br> 
+$git commit-am readme.md <br> 
 
 ## Paso 4 - Enlazar terminal con github
-Enlazar git en el terminal con github 
-Crear repositorio en github
-$ git remote add origin https://github.com/miriammg/Proyecto_1.git
-$ git push -u origin master
+Enlazar git en el terminal con github <br> 
+Crear repositorio en github <br> 
+$ git remote add origin https://github.com/miriammg/Proyecto_1.git <br> 
+$ git push -u origin master <br> 
 
 
 ## Paso 5 - Creación branch
-Crear una nueva branch "rama2"
-$ git checkout -b rama2
+Crear una nueva branch "rama2" <br> 
+$ git checkout -b rama2 <br> 
 
 ## Paso 6 - Modificaciones en branch
-Realizar modificaciones a traves de visual code 
-*modificar lineas de readme.md (ya escritas) **important**
-*crear una nueva carpeta
-*..
-$ git code ./___
-    *cambios*
-$ git status
-$ git add _____         (todos archivos)
-$ git commit "   "
+Realizar modificaciones a traves de visual code  <br> 
+*modificar lineas de readme.md (ya escritas) **important**   <br> 
+*crear una nueva carpeta <br> 
+*.. <br> 
+$ git code ./___ <br> 
+    *cambios* <br>  
+$ git status <br> 
+$ git add _____         (todos archivos)  <br>  
+$ git commit "   " <br> 
 
 ## Paso 7 - Subir a Github
-Subir todo a github
-$ git push origin _____ (NOMBRE DE LA RAMA EN LA QUE ESTAS)
+Subir todo a github <br> 
+$ git push origin _____ (NOMBRE DE LA RAMA EN LA QUE ESTAS) <br> 
 
 ## Paso 8 
-Volver a rama master
-$ git checkout ____
+Volver a rama master <br> 
+$ git checkout ____ <br> 
 
 ## Paso 9 - Merge
-Hacer merge
-$ git merge _____ (rama que deseas importar (no exportar))
+Hacer merge <br>  
+$ git merge _____ (rama que deseas importar (no exportar)) <br> 
 
 
 ## Paso 10 - Conflito y resolución
-Conflicto -
-Conflicto en readme.md
-Abrir readme.md
-$ cat readme.md 
-Modificar en visual code 
+Conflicto - <br> 
+Conflicto en readme.md <br>  
+Abrir readme.md con visual code <br> 
+$ cat readme.md <br>  
+Modificar en visual code (muy fácil opciones) <br> 
 
 ## Paso 11 - GUARDAR 
 Guardar los cambios realizados en visual code
-$ git status
-$ git add
-$ git commit
-$ git push origin master   **important**
+$ git status <br> 
+$ git add <br> 
+$ git commit -am "" <br>  
+$ git push origin master   **important** <br> 
 
