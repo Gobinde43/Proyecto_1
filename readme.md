@@ -2,11 +2,11 @@
 ## Miriam GitHub
 
 ## Paso 1 - Crear repositorio
-Creación carpeta en documetos (local ordenador)
-    también se puede a través de:
-      $ git mkdir ______
-Iniciar el repositorio de esa carpeta (estando en la carpeta)
-$ git init 
+Creación carpeta en documetos (local ordenador) <br> 
+    también se puede a través de: <br> 
+      $ git mkdir ______ <br> 
+Iniciar el repositorio de esa carpeta (estando en la carpeta) <br> 
+$ git init <br> 
 
 
 ## Paso 2 - Crear archivos 
@@ -16,7 +16,8 @@ $ code /.Proyecto_1
 ## Paso 3 - Guardar cambios
 Añadir y guardar los cambios en el terminal
 $ git status             *(comprobar los cambios que faltan por guardado)*
-$ git add readme.md      *(git commit -am "añadir readme")*
+$ git add readme.md      
+$git commit-am readme.md
 
 ## Paso 4 - Enlazar terminal con github
 Enlazar git en el terminal con github 
