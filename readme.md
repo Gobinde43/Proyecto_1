@@ -69,5 +69,5 @@ $ git commit -am "" <br>
 $ git push origin master   **important** <br> 
 
 
-![Captura Network] ( Proyecto_1/Shot_Proyecto_1.png )
+![Captura Network](Shot_Proyecto_1.png)
 
